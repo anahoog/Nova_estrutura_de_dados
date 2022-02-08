@@ -37,4 +37,3 @@ string& lista_obtem(Lista & l, int pos);
 
 void lista_inicia();
 
-
